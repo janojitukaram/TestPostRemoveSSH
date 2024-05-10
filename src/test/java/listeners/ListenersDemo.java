@@ -3,10 +3,10 @@ package listeners;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
-//added comment for testing
+
 public class ListenersDemo implements ITestListener{
 
-//added comment in my local repo
+
 	public void onTestStart(ITestResult result) {
 		
 		System.out.println("***** test case started "+result.getName());
