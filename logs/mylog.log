@@ -1,0 +1,19 @@
+[DEBUG] 2024-04-27 14:41:33.945 [main] democlass - debug message
+[INFO ] 2024-04-27 14:41:33.947 [main] democlass - info message
+[ERROR] 2024-04-27 14:41:33.947 [main] democlass - error message
+[FATAL] 2024-04-27 14:41:33.947 [main] democlass - fatal message
+[DEBUG] 2024-04-27 14:44:44.303 [main] democlass - debug message
+[INFO ] 2024-04-27 14:44:44.306 [main] democlass - info message
+[ERROR] 2024-04-27 14:44:44.306 [main] democlass - error message
+[FATAL] 2024-04-27 14:44:44.306 [main] democlass - fatal message
+[TRACE] 2024-04-27 14:44:44.306 [main] democlass - trace message
+[DEBUG] 2024-04-27 14:47:21.499 [main] democlass - debug message
+[INFO ] 2024-04-27 14:47:21.501 [main] democlass - info message
+[ERROR] 2024-04-27 14:47:21.502 [main] democlass - error message
+[FATAL] 2024-04-27 14:47:21.504 [main] democlass - fatal message
+[TRACE] 2024-04-27 14:47:21.504 [main] democlass - trace message
+[DEBUG] 2024-04-27 14:48:15.734 [main] democlass - debug message
+[INFO ] 2024-04-27 14:48:15.736 [main] democlass - info message
+[ERROR] 2024-04-27 14:48:15.736 [main] democlass - error message
+[FATAL] 2024-04-27 14:48:15.736 [main] democlass - fatal message
+[TRACE] 2024-04-27 14:48:15.736 [main] democlass - trace message
